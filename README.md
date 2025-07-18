@@ -1,15 +1,1 @@
-# <center> Olá! 👋 Me chamo Renan Marx - Seja Bem Vindo!</center>
-<!--
-**renanmarxx/renanmarxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 Atualmente trabalho na empresa [Distrito](https://distrito.me)
-- 🌱 Estou estudando sobre Engenharia de Dados e Ciência de Dados
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronomes: Ele/Dele
-- ⚡ Fun fact: ...
--->
+Olá! 👋 Me chamo Renan Marx - Seja Bem Vindo!

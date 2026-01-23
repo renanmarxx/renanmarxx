@@ -3,7 +3,7 @@
 
 # Olá! 👋 Me chamo Renan Marx - Seja Bem Vindo!
 <p align="left">
-    Formado em <strong>Engenharia de Produção</strong> pela <strong>PUCSP</strong>, atualmente trabalho com <strong>Data Analytics</strong> e <strong>Data Engineering</strong>. <br><br>
+    Formado em <strong>Engenharia de Produção</strong> pela <strong>PUCSP</strong>, atualmente trabalho com <strong>Data Analytics</strong> e <strong>Data Engineering</strong> na empresa <strong>John Deere</strong>. <br><br>
  Tenho focado meus estudos em <strong>Python</strong>, <strong>Machine Learning</strong>, <strong>Engenharia de Dados/Spark/Databricks</strong> e soluções em cloud: <strong>AWS | GCP | ADF</strong>, com o objetivo de transformar cada aprendizado em projetos reais ao longo da minha jornada em programação, dados e IA - aplicando o uso em ferramentas open-source (dbt, Airflow, Mage AI, pydantic, dentre outros) e on-premises.
 </p>
 
